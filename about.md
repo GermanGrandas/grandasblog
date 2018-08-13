@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Estudiante Ingeniería de Sistemas y Computación
+Semillero en Ciencia de Datos (SEMDA)
 
-### More Information
+Data Science & Machine Learning Lover!
 
-A place to include any other types of information that you'd like to include about yourself.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[german.grandas@utp.edu.co](mailto:german.grandas@utp.edu.com)
