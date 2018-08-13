@@ -4,9 +4,10 @@ title: About
 permalink: /about/
 ---
 
-Estudiante Ingeniería de Sistemas y Computación
-Semillero en Ciencia de Datos (SEMDA)
-
+<dl>
+  <dd>Estudiante Ingeniería de Sistemas y Computación.</dd>
+  <dd>Semillero en Ciencia de Datos (SEMDA).</dd>
+</dl>
 Data Science & Machine Learning Lover!
 
 
